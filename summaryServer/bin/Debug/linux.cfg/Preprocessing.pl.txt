@@ -1,0 +1,8 @@
+engine=dummy
+language=pl
+dataDir=/home/rottik/summaryServer/summaryServer/bin/Debug/data
+morphoditeExe=/home/rottik/summaryServer/summaryServer/bin/Debug/morphodita-1.3.0-bin/bin-linux64/run_tagger
+morphoditeData=/home/rottik/summaryServer/summaryServer/bin/Debug/czech-morfflex-pdt-131112/czech-morfflex-pdt-131112-raw_lemmas.tagger-fast
+majkaExe=/home/rottik/summaryServer/summaryServer/bin/Debug/majka/majka-linux
+majkaData=/home/rottik/summaryServer/summaryServer/bin/Debug/majka/
+python=/usr/bin/python

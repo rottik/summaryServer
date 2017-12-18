@@ -1,0 +1,36 @@
+C:\Users\Rotty\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe
+C:\Users\Rotty\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.pdb
+C:\Users\Rotty\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+C:\Users\Rotty\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+C:\Users\Rotty\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+D:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+D:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe
+D:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.pdb
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe.config
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.pdb
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\Classification.dll
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\bin\Debug\Classification.pdb
+F:\Documents\Visual Studio 2012\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.csprojResolveAssemblyReference.cache
+F:\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe.config
+F:\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+F:\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+D:\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe.config
+D:\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+D:\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+D:\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.exe
+D:\Projects\summaryServer\summaryServer\bin\Debug\summaryServer.pdb
+D:\Projects\summaryServer\summaryServer\obj\x86\Debug\summaryServer.csprojResolveAssemblyReference.cache
+Z:\summaryServer\summaryServer\bin\Debug\summaryServer.exe.config
+Z:\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+Z:\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+Z:\summaryServer\summaryServer\bin\Debug\summaryServer.exe
+Z:\summaryServer\summaryServer\bin\Debug\summaryServer.pdb
+\\nlp.ite.tul.cz\rottik\summaryServer\summaryServer\bin\Debug\summaryServer.exe.config
+\\nlp.ite.tul.cz\rottik\summaryServer\summaryServer\obj\x86\Debug\summaryServer.exe
+\\nlp.ite.tul.cz\rottik\summaryServer\summaryServer\obj\x86\Debug\summaryServer.pdb
+Z:\summaryServer\summaryServer\obj\x86\Debug\summaryServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+engine=dummy
+language=ru
+dataDir=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\data
+majkaExe=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\majka\majka.exe
+majkaData=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\majka\w-lt.ru.fsa
+python=python
